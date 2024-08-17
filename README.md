@@ -1,5 +1,7 @@
 # 👗 FIT-Weather (핏웨더)
 
+![대표이미지](https://github.com/user-attachments/assets/f072a26a-85fe-497a-8986-1261dc1226fd)
+
 ## 프로젝트 내용
 - 날씨에 맞는 추천 코디를 일러스트로 제공
 - 사용자의 위치에 기반한 날씨 및 활동 정보 제공
