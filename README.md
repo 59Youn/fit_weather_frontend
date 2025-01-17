@@ -33,4 +33,12 @@
 ## UI/UX설계
 ![UI/UX설계](https://github.com/user-attachments/assets/2147c5be-2de5-4dea-8148-26d25731fa55)
 
+<br>
+
 ## 주요 기능 화면
+![메인화면](https://github.com/user-attachments/assets/72fb9df8-1803-4555-a760-01f3b0f0efd8)
+![코디추천](https://github.com/user-attachments/assets/6bb4b902-d870-4cc6-920c-542e49df60b5)
+![코디화면](https://github.com/user-attachments/assets/3bfeffd2-1325-47ca-afab-5a146bc89aed)
+![코디기록](https://github.com/user-attachments/assets/feea6253-ead3-4512-890c-c495780b2d11)
+![커뮤니티](https://github.com/user-attachments/assets/43400d78-de44-40ac-a730-2dbd2ad82535)
+![로그인](https://github.com/user-attachments/assets/673d7654-666e-4596-952f-a5567ec4d580)
