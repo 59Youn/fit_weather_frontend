@@ -12,7 +12,7 @@
 - 지역별 커뮤니티 게시판 활성화
 <br>
 
-## 🛠️ 사용한 기술
+## 사용한 기술
 ![openai](https://img.shields.io/badge/openai-412991.svg?&style=for-the-badge&logo=openai&logoColor=white)
 ![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
@@ -24,11 +24,13 @@
 
 <br>
 
-## 🤝 프로젝트 팀
+## 프로젝트 팀
 |윤지선|구나영|장예은|채명은|
 | :------: |  :------: | :------: | :------: |
 |[<img src="https://avatars.githubusercontent.com/59Youn" height=180 width=180> <br/> @59Youn](https://github.com/59Youn) | [<img src="https://avatars.githubusercontent.com/GGU940" height=180 width=180> <br/> @GGU940](https://github.com/GGU940) | [<img src="https://avatars.githubusercontent.com/jye1225" height=180 width=180> <br/> @jye1225](https://github.com/jye1225) | [<img src="https://avatars.githubusercontent.com/MEC43" height=180 width=180> <br/> @MEC43](https://github.com/MEC43) |
 <br>
 
 ## UI/UX설계
-![UI/UX설계]
+![UI/UX설계](https://github.com/user-attachments/assets/2147c5be-2de5-4dea-8148-26d25731fa55)
+
+## 주요 기능 화면
