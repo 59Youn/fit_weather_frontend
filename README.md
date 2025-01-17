@@ -30,4 +30,5 @@
 |[<img src="https://avatars.githubusercontent.com/59Youn" height=180 width=180> <br/> @59Youn](https://github.com/59Youn) | [<img src="https://avatars.githubusercontent.com/GGU940" height=180 width=180> <br/> @GGU940](https://github.com/GGU940) | [<img src="https://avatars.githubusercontent.com/jye1225" height=180 width=180> <br/> @jye1225](https://github.com/jye1225) | [<img src="https://avatars.githubusercontent.com/MEC43" height=180 width=180> <br/> @MEC43](https://github.com/MEC43) |
 <br>
 
-## ⚠️ 프로젝트 이슈
+## UI/UX설계
+![UI/UX설계]
